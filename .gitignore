@@ -72,3 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 StoryOfSeasonsDemo2/Library/
 StoryOfSeasonsDemo2/Logs/
+StoryOfSeasonsDemo/Library/
+StoryOfSeasonsDemo/Temp/
+StoryOfSeasonsDemo/Logs/
